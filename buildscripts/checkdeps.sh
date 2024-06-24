@@ -15,6 +15,8 @@
 # limitations under the License.
 #
 
+if {}
+
 _init() {
 
     shopt -s extglob
